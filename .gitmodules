@@ -1,0 +1,3 @@
+[submodule "projects/spring-labs"]
+	path = projects/spring-labs
+	url = git@github.com:titaniper/spring-labs.git
